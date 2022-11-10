@@ -18,7 +18,7 @@ Login
   
 Main Page
   
-<img alt ="Home" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png">
+<img alt ="Home" height="400" width="450" src="https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png">
 
 Storage
   
