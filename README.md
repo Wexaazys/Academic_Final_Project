@@ -11,36 +11,37 @@ The platform can be divided into 2 parts:
 
 - WebSite for mobile devices, its main function is the management of products in the warehouse, and only from this can you read the QRCodes, which greatly facilitate the use of the platform. Initially, I had idealized the realization of an Android application, due to not wanting to limit the platform to Android devices, I chose to create a website, allowing any mobile device to use the platform.
 
-
+<p align = "center">
 Login
+<p align = "center">
+<img alt ="login" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201031570-a92b5698-5877-4be1-86c5-1969c8484647.png">
 
-<img alt ="login" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201031570-a92b5698-5877-4be1-86c5-1969c8484647.png">
-  
+  <p align = "center">
 Main Page
-  
-<img alt ="Home" height="400" width="450" src="https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png">
-
+  <p align = "center">
+<img alt ="Home" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png">
+<p align = "center">
 Storage
-  
-<img alt ="Storage" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201031997-2d0916c5-eb72-4f6d-a0d6-e373811ebd5b.png">
-<img alt ="StorageAdd" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032059-17e6909a-4f83-441c-9d95-eaede5764ce6.png">
-
+  <p align = "center">
+<img alt ="Storage" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201031997-2d0916c5-eb72-4f6d-a0d6-e373811ebd5b.png">
+<img alt ="StorageAdd" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032059-17e6909a-4f83-441c-9d95-eaede5764ce6.png">
+<p align = "center">
 QR Code
-
-<img alt ="Qrcode" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032109-9bd2786c-da70-467e-8a8c-8edba9bac340.png">
-<img alt ="QrCodeCreated" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032122-1bcc98ba-41ba-4cab-82ac-ae53088aa2cf.png">
-
+<p align = "center">
+<img alt ="Qrcode" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032109-9bd2786c-da70-467e-8a8c-8edba9bac340.png">
+<img alt ="QrCodeCreated" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032122-1bcc98ba-41ba-4cab-82ac-ae53088aa2cf.png">
+<p align = "center">
 Administration
-  
-<img alt ="adminmanageusers" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032163-94f7c733-bb17-4d6e-ab17-e7603860dfbc.png">
-<img alt ="adminaddusers" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032225-0a8ab953-6c20-400a-9a8e-1a24aae752b6.png">
-<img alt ="adminlogs" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032268-0cc76274-ab01-4990-aafe-65aa283b116e.png">
-
+  <p align = "center">
+<img alt ="adminmanageusers" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032163-94f7c733-bb17-4d6e-ab17-e7603860dfbc.png">
+<img alt ="adminaddusers" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032225-0a8ab953-6c20-400a-9a8e-1a24aae752b6.png">
+<img alt ="adminlogs" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032268-0cc76274-ab01-4990-aafe-65aa283b116e.png">
+<p align = "center">
 Edit current account information
-  
-<img alt ="account" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032290-ecab17f6-defe-4f51-a1f0-a556794d8a08.png">
-
+  <p align = "center">
+<img alt ="account" height="300" width="450" src="https://user-images.githubusercontent.com/73209353/201032290-ecab17f6-defe-4f51-a1f0-a556794d8a08.png">
+<p align = "center">
 Mobile Devices
-  
-<img alt ="home_mobile" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201032421-c1d052bb-2b1a-476f-b2e4-88843cc14562.png">
+  <p align = "center">
+<img alt ="home_mobile" height="300" width="150" src="https://user-images.githubusercontent.com/73209353/201032421-c1d052bb-2b1a-476f-b2e4-88843cc14562.png">
 
