@@ -1,4 +1,4 @@
-# Academic_Final_Project
+# Academic Final Project
 
 <p align = "center">
 <img alt="GestON" height="150" width="450" src="https://user-images.githubusercontent.com/73209353/201014945-0d597f1e-223e-4442-b279-c5d5f3a34190.png">
