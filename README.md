@@ -12,7 +12,35 @@ The platform can be divided into 2 parts:
 - WebSite for mobile devices, its main function is the management of products in the warehouse, and only from this can you read the QRCodes, which greatly facilitate the use of the platform. Initially, I had idealized the realization of an Android application, due to not wanting to limit the platform to Android devices, I chose to create a website, allowing any mobile device to use the platform.
 
 
-Login and Main Page
+Login
 
 ![image](https://user-images.githubusercontent.com/73209353/201031570-a92b5698-5877-4be1-86c5-1969c8484647.png)
+  
+Main Page
+  
 ![image](https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png)
+
+Storage
+  
+![image](https://user-images.githubusercontent.com/73209353/201031997-2d0916c5-eb72-4f6d-a0d6-e373811ebd5b.png)
+![image](https://user-images.githubusercontent.com/73209353/201032059-17e6909a-4f83-441c-9d95-eaede5764ce6.png)
+
+QR Code
+
+![image](https://user-images.githubusercontent.com/73209353/201032109-9bd2786c-da70-467e-8a8c-8edba9bac340.png)
+![image](https://user-images.githubusercontent.com/73209353/201032122-1bcc98ba-41ba-4cab-82ac-ae53088aa2cf.png)
+
+Administration
+  
+![image](https://user-images.githubusercontent.com/73209353/201032163-94f7c733-bb17-4d6e-ab17-e7603860dfbc.png)
+![image](https://user-images.githubusercontent.com/73209353/201032225-0a8ab953-6c20-400a-9a8e-1a24aae752b6.png)
+![image](https://user-images.githubusercontent.com/73209353/201032268-0cc76274-ab01-4990-aafe-65aa283b116e.png)
+
+Edit current account information
+  
+![image](https://user-images.githubusercontent.com/73209353/201032290-ecab17f6-defe-4f51-a1f0-a556794d8a08.png)
+
+Mobile Devices
+  
+![image](https://user-images.githubusercontent.com/73209353/201032421-c1d052bb-2b1a-476f-b2e4-88843cc14562.png)
+
