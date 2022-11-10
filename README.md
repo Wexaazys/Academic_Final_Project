@@ -11,3 +11,8 @@ The platform can be divided into 2 parts:
 
 - WebSite for mobile devices, its main function is the management of products in the warehouse, and only from this can you read the QRCodes, which greatly facilitate the use of the platform. Initially, I had idealized the realization of an Android application, due to not wanting to limit the platform to Android devices, I chose to create a website, allowing any mobile device to use the platform.
 
+
+Login and Main Page
+
+![image](https://user-images.githubusercontent.com/73209353/201031570-a92b5698-5877-4be1-86c5-1969c8484647.png)
+![image](https://user-images.githubusercontent.com/73209353/201031662-87c6372d-03e0-4599-bded-967b195f4874.png)
