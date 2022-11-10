@@ -1,6 +1,7 @@
 # Academic_Final_Project
+<div
 <img src="https://user-images.githubusercontent.com/73209353/201014945-0d597f1e-223e-4442-b279-c5d5f3a34190.png" alt="GestON" class="center">
-
+div/>
 
 GestON is a medium or large scale warehouse management platform, whose main characteristic is its easy use and low implementation cost.
 
